@@ -1,0 +1,1 @@
+INSERT INTO scm.item (item_number) VALUE (1001);

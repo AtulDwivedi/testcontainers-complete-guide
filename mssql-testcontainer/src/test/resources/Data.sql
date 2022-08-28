@@ -1,0 +1,1 @@
+INSERT INTO item (item_number) VALUES (1001);

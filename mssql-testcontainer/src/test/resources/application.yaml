@@ -1,0 +1,8 @@
+spring:
+  datasource:
+#    url: jdbc:tc:sqlserver:latest////scm
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    database-platform: org.hibernate.dialect.SQLServer2012Dialect
+
+# Trying to create JDBC connection using com.microsoft.sqlserver.jdbc.SQLServerDriver to jdbc:sqlserver://localhost:53945;encrypt=false with properties: {user=SA, password=A_Str0ng_Required_Password}

@@ -28,7 +28,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class ItemRepositoryIT {
 
     /**
+     * References:
      * https://medium.com/@apusingh1967/how-to-use-mssql-server-as-test-container-for-integration-testing-using-junit-and-spring-boot-e5e299e1bd97
+     * https://medium.com/geekculture/docker-express-running-a-local-sql-server-on-your-m1-mac-8bbc22c49dc9
      */
 
 /*    static DockerImageName myImage =
